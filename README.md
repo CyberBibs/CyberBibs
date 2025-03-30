@@ -27,6 +27,10 @@ My objective is to enhance the security posture and resilience for organizations
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Trainning
+- 
+- SOC Automation Project
+
 ## Tools
 
 ### Network
@@ -58,6 +62,15 @@ My objective is to enhance the security posture and resilience for organizations
 <a href="https://www.credly.com/badges/74090c6e-76af-4546-ad5f-498f53f9c716/public_url"><img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cyber%20Security-008C44?&style=for-the-badge&logo=ISC2&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/6339da5d-38c9-4697-bff7-afbf14c56725/public_url"><img src="https://img.shields.io/badge/-Fortinet%20Certified%20Associate%20Cybersecurity-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-5A0FC8?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+<a href="https://www.qualys.com/apps/vulnerability-management/"><img src="https://img.shields.io/badge/-Qualys%20VM%20Foundation-0073e6?style=for-the-badge&logo=Qualys&logoColor=white" />
+</a>
+</div>
+
+## Trainings
+
+<div>
+<a href="https://www.qualys.com/apps/vulnerability-management/"><img src="https://img.shields.io/badge/-Qualys%20VM%20Foundation-0073e6?style=for-the-badge&logo=Qualys&logoColor=white" />
+</a>
 </div>
 
 ## Projects

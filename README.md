@@ -3,8 +3,6 @@
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 
-[Brief Introduction]
-
 I am a Cyber Security professional with multiple certifications and a Master of Engineering degree in Information Systems Security from Concordia University. My goal is to work in diverse and intriguing fields of cybersecurity and enhance my skills and knowledge.
 
 ## Objective
@@ -17,7 +15,7 @@ My objective is to enhance the security posture and resilience for organizations
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Cloud SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

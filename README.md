@@ -14,7 +14,7 @@ My objective is to enhance the security posture and resilience for organizations
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cloud SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure         | <a href="[https://google.com](https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure)">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

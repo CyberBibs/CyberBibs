@@ -3,10 +3,9 @@
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 
-I’m a detail-driven cybersecurity analyst with hands-on experience in securing network infrastructures, analyzing threats, and implementing effective defensive strategies.
+Result-oriented cybersecurity professional with experience in securing network infrastructures, analyzing threats, implementing effective defensive strategies, team management,  automation, managing workflow process, addressing stakeholder and client needs, and devising solutions to achieve objectives. Seeking a challenging role in SOC Analyst, Incident Response, IT Security Analyst, Governance, Risk and Compliance Analyst, Network Analyst/Support, or IT Specialist.
 
 ## Objective
-
 
 My objective is to enhance the security posture and resilience for organizations and their clients, while supporting their unique mission. I highly value collaboration, innovation, and excellence, and I am committed to bringing diverse perspectives and experiences to any team I work with.
 
@@ -15,11 +14,8 @@ My objective is to enhance the security posture and resilience for organizations
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cloud Security & Threat detection        | <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability Assessment | <a href="[https://google.com](https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main)">Vulnerability Assessment of Client Details System (CDS 1.0)</a>|
+
 
 ## Tools
 

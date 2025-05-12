@@ -54,5 +54,5 @@ My objective is to enhance the security posture and resilience for organizations
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>
+- <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>

@@ -14,7 +14,7 @@ My objective is to enhance the security posture and resilience for organizations
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Cloud Security & Threat detection        | <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>|
-| Vulnerability Assessment | <a href="[https://google.com](https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main)">Vulnerability Assessment of Client Details System (CDS 1.0)</a>|
+| Vulnerability Assessment | <a href="[https://google.com](https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>|
 
 
 ## Tools

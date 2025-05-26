@@ -1,9 +1,7 @@
 # Hello, I'm Habib
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
-
-Result-oriented cybersecurity professional with experience in securing network infrastructures, analyzing threats, implementing effective defensive strategies, team management,  automation, managing workflow process, addressing stakeholder and client needs, and devising solutions to achieve objectives. Seeking a challenging role in SOC Analyst, Incident Response, IT Security Analyst, Governance, Risk and Compliance Analyst, Network Analyst/Support, or IT Specialist.
-
+I am a passionate cybersecurity professional with multiple certifications and a Master of Engineering degree in Information Systems Security from Concordia University. My goal is to work in diverse and intriguing fields of cybersecurity and enhance my skills and knowledge.
 ## Objective
 
 My objective is to enhance the security posture and resilience for organizations and their clients, while supporting their unique mission. I highly value collaboration, innovation, and excellence, and I am committed to bringing diverse perspectives and experiences to any team I work with.

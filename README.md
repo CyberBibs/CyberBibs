@@ -1,5 +1,6 @@
 # Hello, I'm Habib
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
 <a href="www.linkedin.com/in/habib-garba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate cybersecurity professional with multiple certifications and a Master of Engineering degree in Information Systems Security from Concordia University. My goal is to work in diverse and intriguing fields of cybersecurity and enhance my skills and knowledge.

@@ -1,4 +1,4 @@
-# Hello, I'm Habib
+# Hi, I'm Habib
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/habibmg"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

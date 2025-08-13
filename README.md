@@ -18,17 +18,12 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 - SOAR: Azure Logic Apps, Playbooks, ServiceNow, Cortex XSOAR
 - Soft Skills: Analytical Thinking, Diligence, Communication, Teamwork, Reporting, Adaptive Learner, Willingness to learn.
   
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Cyber Threat Intelligence  | <a href="https://github.com/CyberBibs/Cyber-Threat-Intelligence">Threat Intelligence</a>|
-| Cloud Security & Threat detection        | <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>|
-| Vulnerability Assessment | <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>|
-| Alert Triaging  | <a href="https://github.com/CyberBibs/Labs">SOC Alert Analysis </a>|
-
-
-## Tools
+## Projects
+- <a href="https://github.com/CyberBibs/Cyber-Threat-Intelligence">Threat Intelligence</a>
+- <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>
+- <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>
+- <a href="https://github.com/CyberBibs/Labs">SOC Alert Analysis </a>
+- 
 
 ### Network
 <div>

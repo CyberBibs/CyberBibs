@@ -2,10 +2,24 @@
 <a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/habib-garba"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a passionate cybersecurity professional with multiple certifications and a Master of Engineering degree in Information Systems Security from Concordia University. My goal is to work in diverse and intriguing fields of cybersecurity and enhance my skills and knowledge.
-## Objective
+Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splunk), EDR (Defender, CrowdStrike), and cloud security (Azure, AWS). Skilled in threat detection, incident response, vulnerability management, data loss prevention and Zero Trust IAM with Microsoft Entra ID. Proven ability to implement DLP policies using Microsoft Purview and align security programs with NIST CSF, SOC2, MITRE ATT&CK, and ISO 27001 standards.
 
-My objective is to enhance the security posture and resilience for organizations and their clients, while supporting their unique mission. I highly value collaboration, innovation, and excellence, and I am committed to bringing diverse perspectives and experiences to any team I work with.
+## Core Competencies
+•	SIEM: Microsoft Sentinel, Splunk
+•	EDR: Microsoft Defender for Endpoint, CrowdStrike
+•	Threat Detection & IR: KQL, MITRE ATT&CK, IOC/TTP Analysis, Threat Hunting
+•	Vulnerability Management: Nessus, Qualys, Defender Vulnerability Management
+•	IAM: Microsoft Entra ID, MFA, Conditional Access, RBAC, SSO
+•	DLP: Microsoft Purview (Cloud & On-Premises)
+•	Cloud Security: Azure Security Center, Defender for Cloud
+•	Compliance: NIST CSF, ISO 27001, SOC 2, CIS Benchmarks
+•	Network Security: TCP/IP, DNS, DHCP, Firewalls, IDS/IPS, Wireshark, Nmap
+•	Automation & Scripting: PowerShell, Bash, and basic python
+•	SOAR: Azure Logic Apps, Playbooks, ServiceNow, Cortex XSOAR
+•	Soft Skills: Analytical Thinking, Diligence, Communication, Teamwork, Reporting, Adaptive Learner, Willingness to learn.
+
+
+
 
 ## Skills
 

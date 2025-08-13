@@ -1,6 +1,7 @@
 # Hi, I'm Habib
-<a href="mailto:mustaphahabib2@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/habibmg"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mustaphahabib2@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/habibmg">Linkedin</a>
+<a href="https://www.linkedin.com/in/habibmg">Resume</a>
 
 Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splunk), EDR (Defender, CrowdStrike), and cloud security (Azure, AWS). Skilled in threat detection, incident response, vulnerability management, data loss prevention and Zero Trust IAM with Microsoft Entra ID. Proven ability to implement DLP policies using Microsoft Purview and align security programs with NIST CSF, SOC2, MITRE ATT&CK, and ISO 27001 standards.
 

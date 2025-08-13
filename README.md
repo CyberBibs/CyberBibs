@@ -23,7 +23,7 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 - <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>
 - <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>
 - <a href="https://github.com/CyberBibs/Labs">SOC Alert Analysis </a>
-- 
+- <a href="https://https://github.com/CyberBibs/Wireshark-Traffic-Analysis/blob/main/README.md">Traffic Analysis Using Wireshark </a>
 
 ## Certifications
 

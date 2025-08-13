@@ -6,7 +6,7 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 
 - <a href="mailto:mustaphahabib2@gmail.com">🔗 Email</a>
 - <a href="https://www.linkedin.com/in/habibmg">💼 LinkedIn</a>
-- <a href="mailto:mustaphahabib2@gmail.com">📄 PDF Resume(./Dami_Resume.pdf)</a>
+- <a href="mailto:mustaphahabib2@gmail.com">[📄 PDF Resume] (./Dami_Resume.pdf)</a>
 
 ## Core Competencies
 - SIEM: Microsoft Sentinel, Splunk

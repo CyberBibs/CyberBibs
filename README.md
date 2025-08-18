@@ -8,6 +8,13 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 - <a href="https://www.linkedin.com/in/habibmg">💼 LinkedIn</a>
 - <a href="https://github.com/CyberBibs/CyberBibs/edit/main/Habib_Resume.pdf">📄 PDF Resume</a>
 
+## Projects
+- <a href="https://github.com/CyberBibs/Cyber-Threat-Intelligence">Threat Intelligence</a>
+- <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>
+- <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>
+- <a href="https://github.com/CyberBibs/Labs">SOC Alert Analysis </a>
+- <a href="https://https://github.com/CyberBibs/Wireshark-Traffic-Analysis/blob/main/README.md">Traffic Analysis Using Wireshark </a>
+
 ## Core Competencies
 - SIEM: Microsoft Sentinel, Splunk
 - EDR: Microsoft Defender for Endpoint, CrowdStrike
@@ -22,13 +29,6 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 - SOAR: Azure Logic Apps, Playbooks, ServiceNow, Cortex XSOAR
 - Soft Skills: Analytical Thinking, Diligence, Communication, Teamwork, Reporting, Adaptive Learner, Willingness to learn.
   
-## Projects
-- <a href="https://github.com/CyberBibs/Cyber-Threat-Intelligence">Threat Intelligence</a>
-- <a href="https://github.com/CyberBibs/Microsoft-Sentinel-SIEM-Lab-with-FortiGate-NGFW-Integration-in-Azure">Microsoft Sentinel SIEM Lab with FortiGate NGFW Integration in Azure </a>
-- <a href="https://github.com/CyberBibs/Vulnerability-Analysis-of-Client-Details-System/tree/main">Vulnerability Assessment of Client Details System (CDS 1.0)</a>
-- <a href="https://github.com/CyberBibs/Labs">SOC Alert Analysis </a>
-- <a href="https://https://github.com/CyberBibs/Wireshark-Traffic-Analysis/blob/main/README.md">Traffic Analysis Using Wireshark </a>
-
 ## Certifications
 
 - <a href="https://www.credly.com/badges/b0c954fe-1e6c-4697-bbdf-df4799bc3ff0/public_url">CompTIA Security+</a>

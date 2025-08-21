@@ -6,7 +6,7 @@ Cybersecurity Analyst with hand-on experience in SIEM (Microsoft Sentinel, Splun
 
 - <a href="mailto:mustaphahabib2@gmail.com">🔗 Email</a>
 - <a href="https://www.linkedin.com/in/habibmg">💼 LinkedIn</a>
-- <a href="https://github.com/CyberBibs/CyberBibs/edit/main/Habib_Resume.pdf">📄 PDF Resume</a>
+- <a href="https://github.com/CyberBibs/CyberBibs/edit/main/Habib Garba's_Resume.pdf">📄 PDF Resume</a>
 
 ## Projects
 - <a href="https://github.com/CyberBibs/Cyber-Threat-Intelligence">Threat Intelligence</a>
